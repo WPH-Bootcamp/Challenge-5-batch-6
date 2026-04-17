@@ -183,6 +183,11 @@ root/
     ├── package.json
 ```
 
+### Cara instalasi di Cli App
+
+1. `npm init -y`
+2. `npm install prompt-sync`
+
 ---
 
 ## Workflow yang Disarankan
